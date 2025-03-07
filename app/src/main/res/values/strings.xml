@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <string name="prev_btn_text">Previous</string>
+    <string name="next_btn_text">Next</string>
+
+    <string name="birds_img_title">Birds</string>
+    <string name="birds_img_author">Author</string>
+
+    <string name="colors_img_title">Colors</string>
+    <string name="colors_img_author">Author</string>
+
+    <string name="flowers_img_title">Flowers</string>
+    <string name="flowers_img_author">Author</string>
+
+    <string name="ships_img_title">Ships</string>
+    <string name="ships_img_author">Author</string>
+
+</resources>

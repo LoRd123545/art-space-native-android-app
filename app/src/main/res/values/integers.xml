@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="birds_img_year">2020</integer>
+    <integer name="colors_img_year">2020</integer>
+    <integer name="flowers_img_year">2020</integer>
+    <integer name="ships_img_year">2020</integer>
+</resources>
